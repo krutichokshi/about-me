@@ -14,8 +14,8 @@ Senior Software Engineer based in Toronto. I approach software as a craft—focu
 
 ### 📖 Selected Projects & Engineering Focus
 - **Builder's Notebook:** (In Progress) A minimalist technical portfolio designed to showcase the "why" behind the code.
-- **Legacy System Re-Architecture:** Leveraging AI-assisted CLI tools to accelerate codebase refactoring while maintaining verifiable CI gates and disciplined review.
-- **Ingestion & Reconciliation Pipelines:** Building robust backend services to improve end-to-end performance and data quality through structured reject handling and validation.
+- **Legacy System Re-Architecture:**  Leveraging AI-assisted CLI tools to accelerate codebase refactoring while maintaining verifiable CI gates and disciplined review.
+- **Ingestion & Reconciliation Pipelines:**  Building robust backend services to improve end-to-end performance and data quality through structured reject handling and validation.
 
 ---
 
